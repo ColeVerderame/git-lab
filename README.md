@@ -5,3 +5,4 @@
 =======
 "THIS WILL CAUSE A CONFLICT " 
 >>>>>>> conflict-branch
+"change from another machine" 
