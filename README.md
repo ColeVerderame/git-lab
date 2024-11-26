@@ -5,3 +5,5 @@
 =======
 "THIS WILL CAUSE A CONFLICT " 
 >>>>>>> conflict-branch
+"staged change" 
+"remote branch change" 
